@@ -1,5 +1,5 @@
 # /r/GBTecho Official Repository
-## Current Version: 1.4
+## Current Version: 1.2.0
 
 ## Repository addon
 
