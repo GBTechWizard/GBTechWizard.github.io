@@ -1,4 +1,4 @@
-# /r/Addons4Kodi Official Repository
+# /r/GBTecho Official Repository
 ## Current Version: 1.4
 
 ## Repository addon
