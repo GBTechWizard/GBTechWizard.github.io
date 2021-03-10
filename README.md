@@ -1,5 +1,5 @@
-# /r/Addons4Kodi Official Repository
-## Current Version: 1.4
+# /r/GBTech Official Repository
+## Current Version: 1.2.0
 
 ## Repository addon
 
