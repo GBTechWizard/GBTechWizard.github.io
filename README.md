@@ -1,9 +1,9 @@
 # GBTech Official Repository
-## Current Version: 3.0.0
+# Current Version: 3.0.0
 
 ## Repository addon
 
-Instructions for adding this repo:
+**Instruções para adicionar este repo / Instructions for adding this repo**
 
 <img align="left" src="icon.png" width="256" hspace="48" title="GBTech Repository">
 
@@ -15,18 +15,11 @@ Instructions for adding this repo:
     <li>Vá para "Addons"</li>
     <li>In Addons, instale um addon do zip.  Quando ele perguntar por uma localização, selecione "GBTechRepo", e instale <a href="repository.gbtech-3.0.0.zip">repository.gbtech-3.0.0.zip</a>.</li>
     <li>Volte para a instalação de Addons, mas desta vez, selecione "Install from repository"</li>
-    <li>Selecione "GBTech Repository"</li>
-    <li>*****************************************************</li>
-    <li>*****************************************************</li>
+    <li>Selecione "GBTechRepo"</li>
+    <li> </li>
+    <li> </li>
   </ul>
 </p>
-
-
-
-
-
-
-
 <p align="right">
   <ul>
     <li>Go to the Kodi file manager.</li>
@@ -35,8 +28,8 @@ Instructions for adding this repo:
     <li>Go to "Addons"</li>
     <li>In Addons, install an addon from zip.  When it asks for the location, select "GBTechRepo", and install <a href="repository.gbtech-1.2.0.zip">repository.gbtech-3.0.0.zip</a>.</li>
     <li>Go back to Addons install, but this time, select "Install from repository"</li>
-    <li>Select the "GBTech Repository"</li>
+    <li>Select the "GBTechRepo"</li>
   </ul>
 </p>
 
-## Enjoy!
+## Aprecie! / Enjoy!
