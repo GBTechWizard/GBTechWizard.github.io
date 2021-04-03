@@ -16,6 +16,8 @@ Instructions for adding this repo:
     <li>In Addons, instale um addon do zip.  Quando ele perguntar por uma localização, selecione "GBTechRepo", e instale <a href="repository.gbtech-3.0.0.zip">repository.gbtech-3.0.0.zip</a>.</li>
     <li>Volte para a instalação de Addons, mas desta vez, selecione "Install from repository"</li>
     <li>Selecione "GBTech Repository"</li>
+    <li>*****************************************************</li>
+    <li>*****************************************************</li>
   </ul>
 </p>
 
