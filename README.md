@@ -13,7 +13,7 @@
     <li>Click on "Adicione a fonte"</li>
     <li>O link para a fonte é <code>https://GBTechWizard.github.io/</code> (Dê-lhe o nome "GBTechRepo").</li>
     <li>Vá para "Addons"</li>
-    <li>In Addons, instale um addon do zip.  Quando ele perguntar por uma localização, selecione "GBTechRepo", e instale <a href="repository.gbtech-3.0.0.zip">repository.gbtech-3.0.0.zip</a>.</li>
+    <li>Em Addons, instale um addon do zip.  Quando ele perguntar por uma localização, selecione "GBTechRepo", e instale <a href="repository.gbtech-3.0.0.zip">repository.gbtech-3.0.0.zip</a>.</li>
     <li>Volte para a instalação de Addons, mas desta vez, selecione "Install from repository"</li>
     <li>Selecione "GBTechRepo"</li>
     <li> </li>
