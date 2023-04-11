@@ -26,7 +26,7 @@
     <li>Click on "Add source"</li>
     <li>The path for the source is <code>https://GBTechWizard.github.io/</code> (Give it the name "GBTechRepo").</li>
     <li>Go to "Addons"</li>
-    <li>In Addons, install an addon from zip.  When it asks for the location, select "GBTechRepo", and install <a href="">repository.gbtech-3.0.0.zip</a>.</li>
+    <li>In Addons, install an addon from zip.  When it asks for the location, select "GBTechRepo", and install <a href="repository.gbtech-3.0.0.zip">repository.gbtech-3.0.0.zip</a>.</li>
     <li>Go back to Addons install, but this time, select "Install from repository"</li>
     <li>Select the "GBTechRepo"</li>
   </ul>
